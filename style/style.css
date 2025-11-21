@@ -112,13 +112,17 @@ margin-right: 50px;
 
  }
 
+ main section{
+  margin-top: 130px;
+  margin-bottom: 130px;
+ }
+
  /* about style */
 
  .about{
   border-radius: 10px;
    padding: 130px 150px;
    text-align: center;
-   margin-top: 130px;
 
  }
  .item-description{
